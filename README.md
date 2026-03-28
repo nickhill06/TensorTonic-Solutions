@@ -131,3 +131,10 @@ If you're also grinding TensorTonic, feel free to reference these solutions — 
 ---
 
 *"Stop reading tutorials. Start implementing algorithms."* — TensorTonic
+
+---
+
+## 👤 Author
+
+**Nikhil Yadav**
+- GitHub: [@nickhill06](https://github.com/nickhill06)
