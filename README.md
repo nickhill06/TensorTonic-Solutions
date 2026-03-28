@@ -131,11 +131,3 @@ If you're also grinding TensorTonic, feel free to reference these solutions — 
 ---
 
 *"Stop reading tutorials. Start implementing algorithms."* — TensorTonic
-
-## ⭐ Star This Repo
-
-If you're also grinding TensorTonic, feel free to reference these solutions — but try the problem yourself first. The whole point is to *build* the understanding.
-
----
-
-*"Stop reading tutorials. Start implementing algorithms."* — TensorTonic
