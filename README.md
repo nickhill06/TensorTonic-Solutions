@@ -57,9 +57,9 @@ tensortonic-solutions/
 | Problem | Category | Difficulty | Status |
 |---|---|---|---|
 | Sigmoid | Activation Functions | 🟢 Easy | ✅ Done |
-| ReLU | Activation Functions | 🟢 Easy | ✅ Done |
-| Softmax | Activation Functions | 🟡 Medium | 🔄 WIP |
-| SGD | Optimizers | 🟢 Easy | ✅ Done |
+| ReLU | Activation Functions | 🟢 Easy | ⬜ Todo |
+| Softmax | Activation Functions | 🟡 Medium | ⬜ Todo |
+| SGD | Optimizers | 🟢 Easy | ⬜ Todo |
 | Adam | Optimizers | 🔴 Hard | ⬜ Todo |
 | Cross Entropy Loss | Loss Functions | 🟡 Medium | ⬜ Todo |
 | Batch Normalization | Deep Learning | 🔴 Hard | ⬜ Todo |
@@ -123,6 +123,14 @@ You write the function → hit submit → instant feedback.
 - 📖 [NumPy Docs](https://numpy.org/doc/)
 
 ---
+
+## ⭐ Star This Repo
+
+If you're also grinding TensorTonic, feel free to reference these solutions — but try the problem yourself first. The whole point is to *build* the understanding.
+
+---
+
+*"Stop reading tutorials. Start implementing algorithms."* — TensorTonic
 
 ## ⭐ Star This Repo
 
